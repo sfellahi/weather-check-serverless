@@ -1,2 +1,3 @@
-# weather-check-serverless
-A Web application that allows you to check if the weather is warm enough to let your cat out. Using the serverless Architecture on AWS
+# Static Website
+
+The goal of this website is to support the learning of the Building Serverless Applications course.

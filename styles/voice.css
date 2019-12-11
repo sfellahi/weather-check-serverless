@@ -1,0 +1,36 @@
+
+
+/* latest */
+[data-role="chat_area"]{
+	background-color: #f7f7f7;
+    display: block;
+    height: 354px;
+    overflow: auto;
+    padding-bottom: 24px;
+}
+[data-role="chat_area"] > output{
+	width: auto;
+	float: right;
+	height: auto;
+	color: white;
+	padding: 12px 24px;
+	background-color: #738042;
+	border-radius: 10px 0 0 10px;
+	clear: both;
+	margin-top: 20px;
+	font-size: 16px;
+	max-width: 66%;
+}
+[data-role="chat_area"] > output[data-device_type="meatsack"]{
+	background-color: #444448;
+    color: white;
+	float: left;
+	border-radius: 0 10px 10px 0;
+}
+img{
+    position: absolute;
+    top: 93px;
+    right: 8px;
+    border: 8px solid silver;
+}
+
