@@ -1,12 +1,16 @@
-# Static Website
+# Wether check serverless (AWS Lex, Lambda and API Gateway)
 
 The goal of this website is to support the learning of the Building Serverless Applications course.
 
 
-### The application
+### Application rendering
 ![Screenshot](images/mainapp.png)
 
-###AWS Lex test code
+### AWS Lex test code
+
+![Screenshot](images/awslex.png)
+
+![Screenshot](images/lexarchi.png)
 ````
  function handler(event, context, callback){      
       var 
