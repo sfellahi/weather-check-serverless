@@ -1,4 +1,4 @@
-# Wether check serverless (AWS Lex, Lambda and API Gateway)
+# Wether check serverless (AWS Lex, Lambda, API Gateway & DynamoDB)
 
 The goal of this website is to support the learning of the Building Serverless Applications course.
 
