@@ -11,7 +11,7 @@ The goal of this website is to support the learning of the Building Serverless A
 
 ![Screenshot](images/getweather.png)
 
-````
+```
 function handler(event, context, callback){
     var 
         AWS = require("aws-sdk"),
@@ -213,4 +213,4 @@ exports.handler = function(event, ctx, cb){
       });
   }
   exports.handler = handler;
-```
+
