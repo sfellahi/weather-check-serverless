@@ -68,6 +68,7 @@ function handler(event, context, callback){
     });
 }
 exports.handler = handler;
+```
 
 ### AWS Lex test code
 
